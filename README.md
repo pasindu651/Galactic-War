@@ -2,9 +2,8 @@
 A space shooter themed game created as a final project for ICS3U using Processing.
 ## Prerequisites 
 ```$ Processing from https://processing.org/download```
-```$ Zip file with game files, audio, and assets from repo```
-
 <br>
+```$ Zip file with game files, audio, and assets from repo```
 
 
 <br>
