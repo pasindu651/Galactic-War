@@ -3,7 +3,7 @@ A space shooter themed game created as a final project for ICS3U using Processin
 ## Prerequisites 
 ```Processing from https://processing.org/download```
 <br>
-```Zip file including game files, audio, and assets from repo```
+```Zip file including game files, audio files, and assets from repo```
 
 
 <br>
