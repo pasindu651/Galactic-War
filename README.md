@@ -1,9 +1,9 @@
 # Galactic-Wars
 A space shooter themed game created as a final project for ICS3U using Processing.
 ## Prerequisites 
-```$ Processing from https://processing.org/download```
+```Processing from https://processing.org/download```
 <br>
-```$ Zip file with game files, audio, and assets from repo```
+```Zip file with game files, audio, and assets from repo```
 
 
 <br>
